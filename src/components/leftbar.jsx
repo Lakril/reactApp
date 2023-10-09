@@ -8,6 +8,7 @@ export const LeftBar = () => {
             <div className={style.container}>
                 prueba superada
             </div>
+            <p>otro cambio test-2</p>
             <div>
                 otro contenedor
             </div>         </>
