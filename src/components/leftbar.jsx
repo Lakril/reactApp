@@ -1,13 +1,12 @@
 
-import style from "./leftbar.css" 
+import style from "./leftbar.css"
 
 export const LeftBar = () => {
 
     return (
         <>
             <div className={style.container}>
-
-                dfslkdfjsldkj
+                prueba superada
             </div>
             <div>
                 otro contenedor
